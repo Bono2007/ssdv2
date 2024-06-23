@@ -2,8 +2,7 @@ authelia - Authentification applications Web
 autoindex - Générateur de liste de répertoires
 baikal - logiciel de calendrier simple
 bazarr - Gestion de sous-titres Sonarr/Radarr
-benphelps - Intégrations Docker et API de service
-bitwarden - Gestionnaire de mots de passeL
+bitwarden - Gestionnaire de mots de passe
 bookstack - Wiki gratuit et open source
 cadvisor - Gestion des ressources docker
 calibre - Gestionnaire de livres électroniques
@@ -41,6 +40,7 @@ guacamole - Accès à distance via portail Web
 handbrake - Transcoder une source vidéo
 heimdall - Organiser vos applications Web
 homarr - A simple powerful dashboard
+homepage - Dashboard et intégration Docker
 imagmaid - Plex Image Cleanup
 jackett - Indexeur de scraping
 jackettstremio - Indexeur de scraping
